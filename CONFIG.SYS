@@ -1,0 +1,10 @@
+!MENUCOLOR=7,0
+MENU
+MENU   FreeDOS Language Selection Menu
+MENU   อออออออออออออออออออออออออออออออ
+MENU
+MENUDEFAULT=1,5
+MENU 1) Use Brazilian keyboard with Western-European (Euro) codepage [858]
+MENU 2) Use US-English keyboard with US-English codepage [437]
+MENU
+12?
